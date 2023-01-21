@@ -22,3 +22,30 @@ MyComponent.propTypes = {
 };
 
 export default MyComponent;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
