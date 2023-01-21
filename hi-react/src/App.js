@@ -1,10 +1,12 @@
 import React from 'react';
-import Counter from './Counter';
+import SayHi from './SayHi';
+import Say from './SayHi'
 
 
 
 const App = () => {
-  return <Counter />
+
+  return <SayHi />
 }
 
 export default App;
